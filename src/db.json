@@ -1,0 +1,24 @@
+{
+  "Student": [
+    {
+      "id": 1,
+      "name": "AishDighe",
+      "MobNo": 87655432
+    },
+    {
+      "id": 2,
+      "name": "Bhagya",
+      "MobNo": 766672287
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

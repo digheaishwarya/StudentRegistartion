@@ -1,0 +1,38 @@
+{
+  "Student": [
+    {
+      "name": "pratiksha",
+      "email": "pratikshandighe@gmail.com",
+      "MobNo": "98776543",
+      "id": 9
+    },
+    {
+      "name": "nisha",
+      "email": "nisha@gmail.com",
+      "MobNo": "7058685664",
+      "id": 10
+    },
+    {
+      "name": "Aish",
+      "email": "aishdighe@gmail.com",
+      "MobNo": "9322350092",
+      "id": 15
+    },
+    {
+      "name": "Aish",
+      "email": "aishdighe@gmail.com",
+      "MobNo": "9322350092",
+      "id": 16
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
